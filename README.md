@@ -1,6 +1,8 @@
 # Caution Hot PCB Sign
 Just a simple heat resistant "Caution Hot" sign made out of two PCBs.
 
+> :warning: **This board was created with KiCad Nightly (5.99).** Exported gerbers are in `CautionHot_gerber/`, so you can order PCBs without installing this version of KiCad.
+
 | ![Layout in KiCad](doc/PCB_screenshot.jpg) | ![Finished sign](doc/soldered_sign.jpg) | ![Sign in use](doc/sign_in_use.jpg) |
 | ------------------------------------------ | --------------------------------------- | ----------------------------------- |
 | Layout in KiCad                            | Finished sign                           | Sign in use                         |
