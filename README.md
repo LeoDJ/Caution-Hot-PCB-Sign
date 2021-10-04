@@ -1,5 +1,5 @@
 # Caution Hot PCB Sign
-Just a simple heat resistant "Caution Hot" sign made out of two PCBs.
+Just a simple heat resistant "Caution Hot" sign made out of two PCBs. The PCB is a 2 layer board measuring 1.38 x 2.36 inches (35.0 x 60.0mm).
 
 > :warning: **This board was created with KiCad Nightly (5.99).** Exported gerbers are in `CautionHot_gerber/`, so you can order PCBs without installing this version of KiCad.
 
