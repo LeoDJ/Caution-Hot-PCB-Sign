@@ -7,6 +7,18 @@ Just a simple heat resistant "Caution Hot" sign made out of two PCBs.
 | ------------------------------------------ | --------------------------------------- | ----------------------------------- |
 | Layout in KiCad                            | Finished sign                           | Sign in use                         |
 
-## How To Solder
+## How to Order
+Simply upload the .zip file in the gerber folder to you favourite PCB manufacturing website.  
+
+> :warning: The JLCPCB preview doesn't detect the outline correctly. This isn't a problem, it will still be manufactured correctly. But you need to input the PCB size manually.
+
+The parameters I used for my order at JLC:
+- 35 x 60 mm
+- 2 layers
+- 1.6mm PCB thickness
+- Yellow solder mask
+- LeadFree HASL surface finish
+
+## How to Solder
 It's best to lay one PCB flat, hold the other one above it at an angle and just flood the lower pad with solder. It'll then wick in between the PCBs and solder them together quite well.
 ![How to solder the PCBs](doc/how_to_solder.jpg)
